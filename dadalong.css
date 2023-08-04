@@ -1,0 +1,61 @@
+
+       body
+       {
+        text-align: center;
+        background-image: url("back.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        
+       }
+       h2{
+        position: absolute;
+        right: 50px;
+        bottom:400px;
+       }
+       h3{
+        position: absolute;
+        right: 130px;
+        bottom:350px;
+       }
+       .photo1{
+        border-radius: 10px 10px 10px 10px; 
+       position: absolute;
+       right:250px;
+       bottom:200px;
+       border: 3px solid black;
+        
+       }
+       .photo2{
+        border-radius: 10px 10px 10px 10px; 
+       position: absolute;
+       right:100px;
+       bottom:200px;
+       border: 3px solid black;
+        
+       }
+       .photo3{
+        border-radius: 10px 10px 10px 10px; 
+       position: absolute;
+       right:250px;
+       bottom:30px;
+       border: 3px solid black;
+        
+       }
+       .audio1
+       {height: 100px;
+        width: 100px;
+        border-radius: 10px 10px 10px 10px; 
+       position: absolute;
+       right:100px;
+       bottom:30px;
+       border: 3px solid black;
+        
+       }
+      
+       
+       
+       
+      
+       
+  
